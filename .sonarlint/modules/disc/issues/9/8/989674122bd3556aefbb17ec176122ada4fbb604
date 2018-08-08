@@ -1,19 +1,0 @@
-
-]squid:S1161F":Add the "@Override" annotation above this method signature(ÿŸ¾Ğüÿÿÿÿ8©³‚•Ñ,
-Usquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8©³‚•Ñ,
-Usquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8å×Ô–Ñ,
-[squid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8‡¤Ø•Ñ,
-@squid:S1659A""Declare "fibo" on a separate line.(İš Õ8©³‚•Ñ,
-Xsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8‡¤Ø•Ñ,
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©³‚•Ñ,
-Fsquid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×äû–Ñ,
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡¤Ø•Ñ,
-]
-squid:S106";Replace this usage of System.out or System.err by a logger.(ÉÿˆÌøÿÿÿÿ8‡¤Ø•Ñ,
-W
-squid:S106!";Replace this usage of System.out or System.err by a logger.(×Œ8‡¤Ø•Ñ,
-Usquid:S1135W"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8×äû–Ñ,
-nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(¤¯ ªÿÿÿÿÿ8àñ³–Ñ,
-dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©³‚•Ñ,
-dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8å×Ô–Ñ,
-isquid:S2142V"FEither re-interrupt this method or rethrow the "InterruptedException".(²ı…¦ûÿÿÿÿ8×äû–Ñ,

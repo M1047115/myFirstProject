@@ -1,7 +1,0 @@
-<suite name="gmail">
-	<test name="testngTest">
-		<classes>
-			<class name="ques1.ques1.ques1Test" />
-		</classes>
-	</test>
-</suite>

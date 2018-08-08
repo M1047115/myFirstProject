@@ -1,18 +1,0 @@
-
-X
-squid:S106";Replace this usage of System.out or System.err by a logger.(·ß8Æ’Ü‚Ñ,
-nsquid:S1132"PMove the "9040290007" string literal on the left side of this string comparison.(Áúç8¯×Å‚Ñ,
-]
-squid:S106";Replace this usage of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¯×Å‚Ñ,
-X
-squid:S106";Replace this usage of System.out or System.err by a logger.(ˆ‰áÀ8é¬·‚Ñ,
-isquid:S1192"FDefine a constant instead of duplicating this literal "email" 3 times.(õÕ¢îøÿÿÿÿ8¯×Å‚Ñ,
-]
-squid:S106";Replace this usage of System.out or System.err by a logger.(ÃĞÀéüÿÿÿÿ8é¬·‚Ñ,
-X
-squid:S106";Replace this usage of System.out or System.err by a logger.(¥É¾ê8Ø³Ô‚Ñ,
-gsquid:HiddenFieldCheck"9Rename "driver" which hides the field declared at line 8.(¬ÌŸŞùÿÿÿÿ8é¬·‚Ñ,
-dsquid:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Öÿå‚Ñ,
-Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Öÿå‚Ñ,
-[squid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8™¦çÑ,
-Usquid:S1135%"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Öÿå‚Ñ,
