@@ -1,0 +1,34 @@
+package asgn;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+
+public class Ques {		
+		static WebDriver driver;
+		public void ques1()
+		{
+			String pathChromeDriver="C:\\Users\\M1047115\\eclipse-workspace\\test\\driver\\chromedriver.exe";
+			System.setProperty("webdriver.ie.driver", pathChromeDriver);
+			driver = new InternetExplorerDriver();
+			driver.get("https://www.google.com/");
+		}
+		
+		public void ques2()
+		{
+			String pathChromeDriver = "C:\\Users\\M1047138\\Downloads\\chromedriver_win32\\chromedriver.exe";
+			System.setProperty("webdriver.chrome.driver", pathChromeDriver);
+			driver = new ChromeDriver();
+			//String pathEclipse = "C:\\Users\\M1047138\\Downloads\\IEDriverServer_x64_3.13.0\\IEDriverServer.exe";
+			//System.setProperty("webdriver.ie.driver", pathEclipse);
+			//driver = new InternetExplorerDriver();
+			driver.get("https://www.google.com/");
+			//driver.navigate().back();
+			driver.navigate().refresh();
+		}
+		public static void main(String[] args) {
+			
+	}
+		
+}
+	
+	 

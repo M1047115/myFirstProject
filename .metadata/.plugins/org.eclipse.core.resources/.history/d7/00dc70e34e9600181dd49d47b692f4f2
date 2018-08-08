@@ -1,0 +1,62 @@
+package discussion;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class test3 {
+
+	public static void main(String args[])
+	{
+		Scanner sc=new Scanner(System.in);
+		String s=sc.nextLine();
+		ArrayList<String> ob=new ArrayList<String>();
+		ArrayList<String> ob1=new ArrayList<String>();
+		for(int i=0;i<s.length();)
+		{
+			if(i%2==0)
+			{
+				String a="";
+				a+=s.charAt(i);
+				 ob.add(a);
+				 i++;
+			}
+			else
+			{
+				if(s.length()%2==0)
+				{
+				String b="";
+				b+=s.charAt(i)+s.charAt(i+1);
+				ob1.add(b);
+				i+=2;
+				}
+			}
+		}
+		for(int i=0;i<ob.size();i++)
+		{
+			for(int j=0;j<ob.size()-1;j++)
+			{
+				if(ob.get(j).compareTo(ob.get(j+1))>0)
+				{
+					String temp=ob.get(j);
+					ob.set(j,ob.get(j+1));
+					ob.set(j+1, temp);
+				}
+			}
+		}
+		for(int i=0;i<ob1.size()-1;i++)
+		{
+			for(int j=0;j<ob1.size()-i-1;j++)
+			{
+				if(ob1.get(j).compareTo(ob1.get(j+1))>0)
+				{
+					String temp=ob1.get(j);
+					ob1.set(j,ob1.get(j+1));
+					ob1.set(j+1, temp);
+				}
+			}
+		}
+		if(a.length()>)
+		
+		
+	}
+}

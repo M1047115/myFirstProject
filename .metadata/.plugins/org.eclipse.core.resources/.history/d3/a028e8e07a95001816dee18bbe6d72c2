@@ -1,0 +1,27 @@
+package automation;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeMethod;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterMethod;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class NewTest {
+  @Test
+  public void f() {
+  }
+  @BeforeMethod
+  public void beforeMethod() {
+	  String pathChromeDriver="C:\\Users\\M1047115\\eclipse-workspace\\test\\driver\\chromedriver.exe";
+  	System.setProperty("webdriver.chrome.driver",pathChromeDriver);
+  	WebDriver driver= new ChromeDriver();
+  	driver.get("https://store.demoqa.com");
+  }
+
+  @AfterMethod
+  public void afterMethod() {
+  }
+
+}

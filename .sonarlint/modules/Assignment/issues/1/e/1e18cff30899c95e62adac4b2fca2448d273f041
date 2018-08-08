@@ -1,0 +1,18 @@
+
+Msquid:S00108b")Either remove or fill this block of code.(¦ìóûÿÿÿÿ8¤²˜“Ñ,
+Ïsquid:S1192"«Define a constant instead of duplicating this literal "C:\\\\\\\\Users\\\\\\\\M1047115\\\\\\\\eclipse-workspace\\\\\\\\test\\\\\\\\driver\\\\\\\\chromedriver.exe" 5 times.(ò—›şÿÿÿÿ8ØÖ²“Ñ,
+vsquid:S1192"XDefine a constant instead of duplicating this literal "webdriver.chrome.driver" 6 times.(‘åïÌ8ùûŠ“Ñ,
+dsquid:S2142?"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†8¤²˜“Ñ,
+dsquid:S2142H"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¤²˜“Ñ,
+dsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ùûŠ“Ñ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÔñã8ØÖ²“Ñ,
+Fsquid:S1148A"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8¤²˜“Ñ,
+Usquid:S1135@"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ùûŠ“Ñ,
+Fsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤²˜“Ñ,
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùûŠ“Ñ,
+Usquid:S1135I"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¤²˜“Ñ,
+Hsquid:S1166b"%Either log or rethrow this exception.(¦ìóûÿÿÿÿ8¤²˜“Ñ,
+xsquid:S00122b"TAt most one statement is allowed per line, but 2 statements were found on this line.(¦ìóûÿÿÿÿ8¤²˜“Ñ,
+zsquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ8ùûŠ“Ñ,
+]
+squid:S106a";Replace this usage of System.out or System.err by a logger.(æ¤£‡üÿÿÿÿ8¤²˜“Ñ,

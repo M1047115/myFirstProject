@@ -1,0 +1,62 @@
+package multithreading;
+
+public class Main {
+
+}
+
+class Factorial extends Thread
+{
+	int y,fact;
+	public Factorial(int y)
+	{
+		this.y=y;
+	}
+	public void run()
+	{
+		if(y==0)
+			fact=0;
+		else
+		{
+			while(y>1)
+			{
+				Factorial ob=new Factorial(y-1);
+				ob.start();
+				fact*=y;
+			}
+		}
+	}
+}
+class Fibonacci extends Thread
+{
+	int x,fibo;
+	public Fibonacci(int x)
+	{
+		this.x=x;
+	}
+	public void run()
+	{
+		if(x==0)
+			fibo=0;
+		else if(x<2)
+			fibo=1;
+		else
+		{
+			Fibonacci ob=new Fibonacci(x-1);
+			Fibonacci ob1=new Fibonacci(x-2);
+			ob.start();
+			ob1.start();
+			try {
+				ob.join();
+			ob1.join();
+			}
+			catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			fibo=ob.fibo+ob1.fibo;
+			
+			
+		}
+	}
+	
+}

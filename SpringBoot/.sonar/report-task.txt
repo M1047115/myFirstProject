@@ -1,0 +1,6 @@
+projectKey=SpringBoot
+serverUrl=http://localhost:8081
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:8081/dashboard/index/SpringBoot
+ceTaskId=AWUT_DOf6a-xIZTQQJtg
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AWUT_DOf6a-xIZTQQJtg

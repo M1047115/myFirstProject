@@ -1,0 +1,11 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÂÖæøÿÿÿÿ
+osquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(§…æó
+hsquid:S1132"LMove the "Africa" string literal on the left side of this string comparison.(ùâ¶ªşÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+esquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(» Ñ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ•¿
+Qsquid:S1118
+":Add a private constructor to hide the implicit public one.(» Ñ
